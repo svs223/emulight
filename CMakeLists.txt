@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.6)
-project(turboengine LANGUAGES CXX)
+project(emulight LANGUAGES CXX)
 
-include_directories(turboengine include)
+#include_directories(emulight include)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
