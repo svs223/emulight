@@ -1,1 +1,2 @@
-add_subdirectory(potato8)
+add_subdirectory(8as)
+#add_subdirectory(potato8)
