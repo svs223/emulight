@@ -9,6 +9,4 @@ Message::Message(eventvar packet, MsgType msgType, MsgTarget msgTarget)
     target = msgTarget;
 }
 
-Message::Message()
-{
-}
+Message::Message() {}
